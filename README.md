@@ -20,13 +20,7 @@
    ```shell
    pip install -r requirements.txt
    ```
-4. Примените миграции:
-
-   ```shell
-   python manage.py migrate
-   ```
-
-5. Запуск приложения:
+4. Запуск приложения:
 
    ```shell
    python manage.py runserver
